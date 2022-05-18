@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6561171.svg)](https://doi.org/10.5281/zenodo.6561171)
+
+
 # Hospital networks
 
 Networks used in the paper ["Assessing the risk of spatial spreading of diseases in hospitals"](https://doi.org/10.3389/fphy.2022.882314)
